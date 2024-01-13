@@ -15,7 +15,7 @@ EX: go run . --output=<fileName.txt> something standard
 To run the Test File:
 
 ```
-./Tes.sh
+./Test.sh
 ```
 
 The program should accept other correctly formatted [OPTION] and/or [BANNER].
